@@ -21,9 +21,11 @@
     "next": "^9.0.2",
     "next-images": "^1.2.0",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "styled-jsx": "^3.2.4"
   },
   "devDependencies": {
+    "@types/styled-jsx": "^2.2.8",
     "lib": "^4.0.5"
   }
 }
